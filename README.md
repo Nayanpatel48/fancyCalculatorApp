@@ -11,5 +11,6 @@ Android studio
 Below are the screenshots of app:
 ![Never Have I Evr](https://github.com/Nayanpatel48/fancyCalculatorApp/assets/149961476/64a02468-e78f-48bb-a177-99ab446149d9)
 Below is a video clip that shows how it looks like (not very diffrent than ordinary one):
-https://github.com/Nayanpatel48/fancyCalculatorApp/assets/149961476/b6896cdf-5fc4-46cc-8db2-673b39c855e2
+
+![Never Have 2 I Evr]https://github.com/Nayanpatel48/fancyCalculatorApp/assets/149961476/b6896cdf-5fc4-46cc-8db2-673b39c855e2
 
