@@ -25,7 +25,7 @@ fun CalculatorButton(
     ) {
         Text(
             text = symbol,
-            fontSize = 36.sp,
+            fontSize = 40.sp,
         )
     }
 }
